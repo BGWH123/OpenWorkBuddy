@@ -1,0 +1,13 @@
+node_modules/
+client/dist/
+data/
+.tmp/
+inbox/
+workcode/
+*.log
+two_sum.cpp
+two_sum.py
+scripts/make_pca_images.py
+scripts/img/
+tools/ocr.ps1
+tools/ocr_out.txt
